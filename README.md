@@ -2,7 +2,7 @@
 
 # こんにちは！🙂  
 ## 💫 About Me:
-🔭 I’m currently working on kawaii, a waifu pics site & _byte, a virtual card creation system<br>👯 I’m looking to collaborate on projects that'll help me learn typescript & svelte<br>🌱 I’m currently learning<br>💬 Ask me about anything that has to do w/svelte, tailwindcss & javascript<br>⚡ Fun fact: i dislike peppers
+🔭 I’m currently working on kawaii, a waifu pics site & _byte, a virtual card creation system<br>👯 I’m looking to collaborate on projects that'll help me learn typescript & svelte<br>🌱 I’m currently learning Typescript & collaborative coding w/GitHub <br>💬 Ask me about anything that has to do w/svelte, tailwindcss & javascript<br>⚡ Fun fact: i dislike peppers
 
 
 ## 🌐 Socials:
