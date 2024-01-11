@@ -2,8 +2,8 @@
 
 # こんにちは！🙂  
 ## 💫 About Me:
-🙂 I'm a 22yr old self taught web developer, who's in love with Svelte and building stuff <br><br>
-🔭 I’m currently working on kawaii, a waifu pics site & _byte, a virtual card creation system<br><br>👯 I’m looking to collaborate on projects that'll help me learn typescript & svelte<br><br>🌱 I’m currently learning Typescript & collaborative coding w/GitHub <br> <br>💬 Ask me about anything that has to do w/svelte, tailwindcss & javascript<br><br>⚡ Fun fact: i dislike peppers
+🙂 I'm a 24 year old self taught web developer, who's in love with Svelte and building stuff <br><br>
+🔭 I’m currently working on kawaii, a waifu pics site & _byte, a virtual card creation system<br><br>👯 I’m looking to collaborate on projects that'll help me learn typescript & svelte<br><br>🌱 I’m currently learning Typescript, python and Golang. <br> <br>💬 Ask me about anything that has to do w/svelte, tailwindcss & javascript<br><br>⚡ Fun fact: i dislike peppers
 
 
 ## 🌐 Socials:
