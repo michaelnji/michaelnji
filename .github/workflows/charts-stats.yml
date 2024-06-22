@@ -18,7 +18,7 @@ jobs:
      # this will generate the contribution graph into an 'images' folder
     - uses: JBraunsmaJr/contributiongraph@v1
       with:
-         token: ${{ secrets.APP_TOKEN }}
+         token: ${{ secrets.METRICS_TOKEN }}
          viewby: day
          farback: 31
     
