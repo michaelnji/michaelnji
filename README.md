@@ -1,6 +1,8 @@
 
 
 # こんにちは！🙂  
+![cat](https://github.com/michaelnji/michaelnji/assets/73862378/606e99e9-2c18-4853-8722-991e4af8eae6)
+
 ## 💫 About Me:
 🙂 I'm a 24 year old self taught web developer, who's in love with Svelte and building stuff <br><br>
 
