@@ -15,8 +15,6 @@
 
 > 📦 183.5 kB Used in GitHub's Storage 
  > 
-> 🏆 959 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 35 Public Repositories 
@@ -79,5 +77,5 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2024 18:41:40 UTC
+ Last Updated on 17/11/2024 18:42:05 UTC
 <!--END_SECTION:waka-->
