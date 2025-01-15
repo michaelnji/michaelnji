@@ -7,7 +7,7 @@
 🙂 I'm a 24 year old self taught web developer, who's in love with Svelte and building stuff <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C209%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C209%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -48,17 +48,16 @@ Sunday                   581 commits         ████░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Vue.js                   2 hrs 33 mins       ████████████████████████░   95.98 % 
-TypeScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Vue.js                   29 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   2 hrs 39 mins       █████████████████████████   100.00 % 
+Cursor                   29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-vt                       2 hrs 39 mins       █████████████████████████   100.00 % 
+vt                       29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 39 mins       █████████████████████████   100.00 % 
+Linux                    29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -78,5 +77,5 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2025 18:41:36 UTC
+ Last Updated on 15/01/2025 18:41:49 UTC
 <!--END_SECTION:waka-->
