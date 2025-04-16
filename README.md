@@ -15,6 +15,8 @@
 
 > 📦 200.3 kB Used in GitHub's Storage 
  > 
+> 🏆 26 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -77,5 +79,5 @@ Vue                      4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2025 18:44:39 UTC
+ Last Updated on 16/04/2025 18:46:53 UTC
 <!--END_SECTION:waka-->
