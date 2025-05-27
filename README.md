@@ -13,7 +13,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 170.7 kB Used in GitHub's Storage 
+> 📦 170.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 122 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -77,5 +79,5 @@ CSS                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2025 18:45:48 UTC
+ Last Updated on 27/05/2025 18:48:16 UTC
 <!--END_SECTION:waka-->
