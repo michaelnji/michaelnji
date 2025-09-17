@@ -7,8 +7,6 @@
 🙂 I'm a 24 year old self taught web developer, who's in love with building aesthetically pleasing web projects <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C403%20hrs%208%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -24,11 +22,11 @@
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               20 repos            ████████░░░░░░░░░░░░░░░░░   31.25 % 
-Vue                      11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-JavaScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+TypeScript               19 repos            ████████░░░░░░░░░░░░░░░░░   30.16 % 
+Vue                      11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+JavaScript               11 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
+CSS                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
 ```
 
 
@@ -38,5 +36,5 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 18:46:07 UTC
+ Last Updated on 17/09/2025 18:46:04 UTC
 <!--END_SECTION:waka-->
