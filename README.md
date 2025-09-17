@@ -4,7 +4,7 @@
 ![cat](https://github.com/michaelnji/michaelnji/assets/73862378/606e99e9-2c18-4853-8722-991e4af8eae6)
 
 ## 💫 About Me:
-🙂 I'm a 24 year old self taught web developer, who's in love with Svelte and building stuff <br><br>
+🙂 I'm a 24 year old self taught web developer, who's in love with building aesthetically pleasing web projects <br><br>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C403%20hrs%208%20mins-blue)
