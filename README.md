@@ -7,7 +7,7 @@
 🙂 I'm a 24 year old self taught web developer, who's in love with building aesthetically pleasing web projects <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C477%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C478%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -50,19 +50,19 @@ Sunday                   510 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-TypeScript               7 hrs 38 mins       ████████████████████░░░░░   78.68 % 
-Markdown                 1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Vue.js                   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+TypeScript               3 hrs 57 mins       █████████████████████░░░░   83.22 % 
+Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Vue.js                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mapstack                 7 hrs 45 mins       ████████████████████░░░░░   79.86 % 
-cloudcrates              1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+mapstack                 4 hrs 4 mins        █████████████████████░░░░   85.60 % 
+cloudcrates              41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
 
 💻 Operating System: 
-Linux                    9 hrs 42 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -82,5 +82,5 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2025 18:37:15 UTC
+ Last Updated on 12/10/2025 18:39:22 UTC
 <!--END_SECTION:waka-->
