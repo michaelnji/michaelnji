@@ -7,13 +7,13 @@
 🙂 I'm a 24 year old self taught web developer, who's in love with building aesthetically pleasing web projects <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C506%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C506%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 283.1 kB Used in GitHub's Storage 
+> 📦 283.2 kB Used in GitHub's Storage 
  > 
 > 🏆 978 Contributions in the Year 2025
  > 
@@ -50,20 +50,19 @@ Sunday                   525 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-TypeScript               9 hrs 57 mins       ████████████████████░░░░░   80.77 % 
-Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+TypeScript               10 hrs 22 mins      ███████████████████████░░   90.20 % 
+Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 20 mins      █████████████████████████   100.00 % 
+VS Code                  11 hrs 30 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-mapstack                 12 hrs 20 mins      █████████████████████████   100.00 % 
+mapstack                 11 hrs 29 mins      █████████████████████████   99.91 % 
+klarity-dashboard        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Linux                    12 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    11 hrs 29 mins      █████████████████████████   99.91 % 
+Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,5 +82,5 @@ Python                   4 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2025 18:43:33 UTC
+ Last Updated on 29/10/2025 18:43:51 UTC
 <!--END_SECTION:waka-->
