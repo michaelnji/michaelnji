@@ -7,7 +7,7 @@
 🙂 I'm a 24 year old self taught web developer, who's in love with building aesthetically pleasing web projects <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C712%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C713%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -88,5 +88,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 07/02/2026 18:46:04 UTC
+ Last Updated on 08/02/2026 18:46:16 UTC
 <!--END_SECTION:waka-->
