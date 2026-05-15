@@ -7,15 +7,13 @@
 🙂 I'm a 24 year old self taught web developer, who's in love with building aesthetically pleasing web projects <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C070%20hrs%2019%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 313.6 kB Used in GitHub's Storage 
  > 
-> 🏆 831 Contributions in the Year 2026
+> 🏆 842 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -40,5 +38,5 @@ CSS                      4 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 14/05/2026 19:14:51 UTC
+ Last Updated on 15/05/2026 19:11:28 UTC
 <!--END_SECTION:waka-->
