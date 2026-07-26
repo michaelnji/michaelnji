@@ -7,7 +7,7 @@
 🙂 I'm a 24 year old self taught web developer, who's in love with building aesthetically pleasing web projects <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C466%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C553%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -26,21 +26,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13614 commits       ████████░░░░░░░░░░░░░░░░░   30.36 % 
-🌆 Daytime                28065 commits       ████████████████░░░░░░░░░   62.60 % 
-🌃 Evening                2552 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-🌙 Night                  604 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+🌞 Morning                17539 commits       ████████░░░░░░░░░░░░░░░░░   31.84 % 
+🌆 Daytime                33990 commits       ███████████████░░░░░░░░░░   61.70 % 
+🌃 Evening                2902 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+🌙 Night                  654 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   9867 commits        ██████░░░░░░░░░░░░░░░░░░░   22.01 % 
-Tuesday                  8842 commits        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-Wednesday                8201 commits        █████░░░░░░░░░░░░░░░░░░░░   18.29 % 
-Thursday                 8062 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Friday                   5267 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Saturday                 2567 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Sunday                   2029 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+Monday                   11867 commits       █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+Tuesday                  10992 commits       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Wednesday                10201 commits       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Thursday                 9487 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
+Friday                   7117 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Saturday                 3042 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Sunday                   2379 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 ```
 
 
@@ -50,26 +50,24 @@ Sunday                   2029 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Vue                      19 hrs 54 mins      ██████████░░░░░░░░░░░░░░░   41.25 % 
-TypeScript               13 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-Python                   6 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-JSON                     2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Markdown                 1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Vue                      28 hrs 48 mins      ███████████░░░░░░░░░░░░░░   44.17 % 
+TypeScript               17 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+Python                   9 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+JSON                     2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+Markdown                 2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
 
 🔥 Editors: 
-Claude Code              32 hrs 44 mins      █████████████████░░░░░░░░   67.85 % 
-VS Code                  9 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Codex CLI                5 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
+Claude Code              35 hrs              █████████████░░░░░░░░░░░░   53.69 % 
+Codex CLI                16 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+VS Code                  13 hrs 47 mins      █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
 
 🐱‍💻 Projects: 
-kora                     24 hrs 35 mins      █████████████░░░░░░░░░░░░   50.96 % 
-miyaschool-website       18 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   38.59 % 
-cloudcrates-server       2 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-AzeFarms-admin           1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Dart                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+kora                     34 hrs              █████████████░░░░░░░░░░░░   52.16 % 
+miyaschool-website       30 hrs 9 mins       ████████████░░░░░░░░░░░░░   46.24 % 
+cloudcrates-server       1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 💻 Operating System: 
-Mac                      48 hrs 14 mins      █████████████████████████   100.00 % 
+Mac                      65 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -89,5 +87,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 23/07/2026 20:06:07 UTC
+ Last Updated on 26/07/2026 19:53:38 UTC
 <!--END_SECTION:waka-->
