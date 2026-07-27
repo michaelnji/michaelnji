@@ -7,7 +7,9 @@
 🙂 I'm a 24 year old self taught web developer, who's in love with building aesthetically pleasing web projects <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C553%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C548%20hrs%2014%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-651%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -15,7 +17,7 @@
 
 > 📦 314.9 kB Used in GitHub's Storage 
  > 
-> 🏆 1,022 Contributions in the Year 2026
+> 🏆 1,023 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -26,21 +28,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                17539 commits       ████████░░░░░░░░░░░░░░░░░   31.84 % 
-🌆 Daytime                33990 commits       ███████████████░░░░░░░░░░   61.70 % 
-🌃 Evening                2902 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-🌙 Night                  654 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+🌞 Morning                17697 commits       ████████░░░░░░░░░░░░░░░░░   31.89 % 
+🌆 Daytime                34227 commits       ███████████████░░░░░░░░░░   61.67 % 
+🌃 Evening                2916 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+🌙 Night                  656 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   11867 commits       █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-Tuesday                  10992 commits       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-Wednesday                10201 commits       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Thursday                 9487 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-Friday                   7117 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Saturday                 3042 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Sunday                   2379 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Monday                   11947 commits       █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Tuesday                  11078 commits       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Wednesday                10281 commits       █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
+Thursday                 9545 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Friday                   7191 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Saturday                 3061 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Sunday                   2393 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 ```
 
 
@@ -50,24 +52,50 @@ Sunday                   2379 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Vue                      28 hrs 48 mins      ███████████░░░░░░░░░░░░░░   44.17 % 
-TypeScript               17 hrs 38 mins      ███████░░░░░░░░░░░░░░░░░░   27.04 % 
-Python                   9 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-JSON                     2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-Markdown                 2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Vue                      24 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   41.61 % 
+TypeScript               19 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   32.79 % 
+Python                   5 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Markdown                 4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+JSON                     2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 
 🔥 Editors: 
-Claude Code              35 hrs              █████████████░░░░░░░░░░░░   53.69 % 
-Codex CLI                16 hrs 24 mins      ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-VS Code                  13 hrs 47 mins      █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+Claude Code              25 hrs 15 mins      ███████████░░░░░░░░░░░░░░   42.25 % 
+Codex CLI                22 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   37.14 % 
+VS Code                  12 hrs 19 mins      █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
 
 🐱‍💻 Projects: 
-kora                     34 hrs              █████████████░░░░░░░░░░░░   52.16 % 
-miyaschool-website       30 hrs 9 mins       ████████████░░░░░░░░░░░░░   46.24 % 
-cloudcrates-server       1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+miyaschool-website       31 hrs 6 mins       █████████████░░░░░░░░░░░░   52.03 % 
+kora                     27 hrs 38 mins      ████████████░░░░░░░░░░░░░   46.22 % 
+cloudcrates-server       1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 💻 Operating System: 
-Mac                      65 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      59 hrs 47 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 57 hrs 8 mins (95.55%)
+
+✍️ 13,228 lines written by AI, 176 lines written by hand (98.69% AI-written)
+
+🔤 836,100,752 Input Tokens, 2,544,796 Output Tokens
+
+💵 $2895.64 Estimated AI Cost This Week
+
+🧠 42 AI Sessions, 470 AI Prompts
+
+GPT                      9,307 lines         ███████████████░░░░░░░░░░   61.97 % 
+Sonnet                   4,794 lines         ████████░░░░░░░░░░░░░░░░░   31.92 % 
+Opus                     540 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Deepseek                 377 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.69% of written lines came from AI
+📝 Concise Prompter — average 465 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 1.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,5 +115,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 19:53:38 UTC
+ Last Updated on 27/07/2026 20:19:36 UTC
 <!--END_SECTION:waka-->
