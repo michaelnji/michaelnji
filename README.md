@@ -7,9 +7,9 @@
 🙂 I'm a 24 year old self taught web developer, who's in love with building aesthetically pleasing web projects <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C598%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C601%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-703%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-705%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -52,53 +52,52 @@ Sunday                   2591 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Python                   10 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   38.66 % 
-Markdown                 8 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.89 % 
-TypeScript               3 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.68 % 
-Vue                      2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Other                    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Python                   7 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   38.87 % 
+Markdown                 4 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+TypeScript               3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Vue                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+JavaScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 12 mins      ████████████████░░░░░░░░░   65.48 % 
-Claude Code              9 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.47 % 
-Copilot CLI              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Antigravity CLI          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+VS Code                  11 hrs 36 mins      ██████████████░░░░░░░░░░░   57.21 % 
+Claude Code              8 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   40.41 % 
+Copilot CLI              28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🐱‍💻 Projects: 
-kora                     23 hrs 6 mins       █████████████████████░░░░   83.16 % 
-f4fd8ebb-d94d-4448-88e1-23 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
-workdir                  39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-miyaschool-website       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Dart                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+kora                     16 hrs 50 mins      █████████████████████░░░░   82.99 % 
+f4fd8ebb-d94d-4448-88e1-22 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+nexus-req                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+workdir                  25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+miyaschool-website       15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 💻 Operating System: 
-Mac                      27 hrs 47 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 27 hrs 21 mins (98.42%)
+⏱ AI Coding Time: 19 hrs 34 mins (96.45%)
 
-✍️ 16,491 lines written by AI, 7 lines written by hand (99.96% AI-written)
+✍️ 13,424 lines written by AI, 7 lines written by hand (99.95% AI-written)
 
-🔤 665,444,063 Input Tokens, 1,962,208 Output Tokens
+🔤 474,021,070 Input Tokens, 1,509,519 Output Tokens
 
-💵 $2500.30 Estimated AI Cost This Week
+💵 $2065.28 Estimated AI Cost This Week
 
-🧠 112 AI Sessions, 298 AI Prompts
+🧠 70 AI Sessions, 191 AI Prompts
 
-Deepseek                 10,291 lines        ███████████████░░░░░░░░░░   58.05 % 
-Sonnet                   3,856 lines         █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-GPT                      3,153 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-Opus                     383 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
-Gemini                   44 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Deepseek                 10,163 lines        █████████████████░░░░░░░░   69.80 % 
+Sonnet                   4,398 lines         ████████░░░░░░░░░░░░░░░░░   30.20 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.96% of written lines came from AI
-📚 Verbose Prompter — average 1,623 characters per prompt
+🤖 AI-Driven — 99.95% of written lines came from AI
+📚 Verbose Prompter — average 1,709 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.09% of changed lines were hand-edited
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,5 +117,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:41:34 UTC
+ Last Updated on 08/08/2026 19:22:17 UTC
 <!--END_SECTION:waka-->
