@@ -52,54 +52,54 @@ Sunday                   2699 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Vue                      17 hrs 45 mins      ███████████░░░░░░░░░░░░░░   45.02 % 
-TypeScript               16 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   41.90 % 
-Markdown                 2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-JavaScript               1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+TypeScript               13 hrs 20 mins      ███████████░░░░░░░░░░░░░░   43.79 % 
+Vue                      12 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   40.92 % 
+Markdown                 1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+JavaScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 25 mins      █████████████░░░░░░░░░░░░   51.80 % 
-Antigravity Desktop      7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Codex CLI                4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-VS Code                  3 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Antigravity IDE          2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+Claude Code              12 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   40.15 % 
+Antigravity Desktop      7 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+Codex CLI                4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+VS Code                  3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Antigravity IDE          2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
 
 🐱‍💻 Projects: 
-AzeFarms-admin           29 hrs 2 mins       ██████████████████░░░░░░░   73.65 % 
-my-portfolio             9 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Unknown Project          35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-aze-farm-backend         17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-kairos                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+AzeFarms-admin           29 hrs 2 mins       ████████████████████████░   95.38 % 
+Unknown Project          35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+aze-farm-backend         17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+kairos                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
+my-portfolio             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 💻 Operating System: 
-Mac                      39 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      30 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 38 hrs 20 mins (97.22%)
+⏱ AI Coding Time: 29 hrs 38 mins (97.34%)
 
-✍️ 23,200 lines written by AI, 31 lines written by hand (99.87% AI-written)
+✍️ 16,369 lines written by AI, 26 lines written by hand (99.84% AI-written)
 
-🔤 15,179,102 Input Tokens, 2,377,632 Output Tokens
+🔤 12,749,600 Input Tokens, 1,721,040 Output Tokens
 
-💵 $334.14 Estimated AI Cost This Week
+💵 $257.73 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 425 AI Prompts
+🧠 44 AI Sessions, 344 AI Prompts
 
-Sonnet                   18,295 lines        █████████████████░░░░░░░░   66.40 % 
-GPT                      6,525 lines         ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-Gemini                   1,402 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Deepseek                 1,330 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   11,119 lines        ██████████████░░░░░░░░░░░   54.57 % 
+GPT                      6,525 lines         ████████░░░░░░░░░░░░░░░░░   32.02 % 
+Gemini                   1,402 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Deepseek                 1,330 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📚 Verbose Prompter — average 15,343 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.18% of changed lines were hand-edited
+🤖 AI-Driven — 99.84% of written lines came from AI
+📚 Verbose Prompter — average 18,805 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,5 +119,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 19:05:28 UTC
+ Last Updated on 17/08/2026 19:23:19 UTC
 <!--END_SECTION:waka-->
