@@ -52,52 +52,48 @@ Sunday                   2767 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Python                   1 hr 39 mins        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Vue                      1 hr 25 mins        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-Other                    1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Markdown                 1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-HTML                     58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Python                   1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   30.97 % 
+Other                    1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+HTML                     58 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+JavaScript               25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Vue                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 31 mins       ██████████████░░░░░░░░░░░   57.85 % 
-Antigravity Desktop      1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-VS Code                  1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Codex CLI                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Claude Code              4 hrs 31 mins       ████████████████████░░░░░   80.23 % 
+VS Code                  1 hr 5 mins         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
+Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🐱‍💻 Projects: 
-AzeFarms-admin           4 hrs 9 mins        █████████████░░░░░░░░░░░░   53.19 % 
-kora                     3 hrs 39 mins       ████████████░░░░░░░░░░░░░   46.79 % 
-glance                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+kora                     3 hrs 45 mins       █████████████████░░░░░░░░   66.39 % 
+AzeFarms-admin           1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   33.58 % 
+glance                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      7 hrs 49 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 40 mins (98.04%)
+⏱ AI Coding Time: 5 hrs 28 mins (96.9%)
 
-✍️ 2,633 lines written by AI, 27 lines written by hand (98.98% AI-written)
+✍️ 1,999 lines written by AI, 27 lines written by hand (98.67% AI-written)
 
-🔤 1,901,189 Input Tokens, 290,494 Output Tokens
+🔤 1,607,236 Input Tokens, 263,205 Output Tokens
 
-💵 $61.24 Estimated AI Cost This Week
+💵 $57.19 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 51 AI Prompts
+🧠 7 AI Sessions, 20 AI Prompts
 
-Opus                     2,073 lines         ████████████████░░░░░░░░░   65.87 % 
-GPT                      934 lines           ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-Gemini                   140 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Opus                     2,073 lines         █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.98% of written lines came from AI
-📝 Concise Prompter — average 272 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.85% of changed lines were hand-edited
+🤖 AI-Driven — 98.67% of written lines came from AI
+📝 Concise Prompter — average 78 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.29% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,5 +113,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 19:09:13 UTC
+ Last Updated on 23/08/2026 19:06:51 UTC
 <!--END_SECTION:waka-->
