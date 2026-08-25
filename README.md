@@ -15,7 +15,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 317.3 kB Used in GitHub's Storage 
+> 📦 317.4 kB Used in GitHub's Storage 
  > 
 > 🏆 1,046 Contributions in the Year 2026
  > 
@@ -52,53 +52,51 @@ Sunday                   2825 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Python                   2 hrs 58 mins       ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-TypeScript               2 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Other                    1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-Vue                      1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-HTML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
+Python                   2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   25.32 % 
+TypeScript               2 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Vue                      1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+HTML                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 1 min         ████████████████░░░░░░░░░   62.02 % 
-VS Code                  4 hrs 9 mins        █████████░░░░░░░░░░░░░░░░   36.76 % 
-Codex CLI                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Claude Code              7 hrs 10 mins       █████████████████░░░░░░░░   67.72 % 
+VS Code                  3 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   30.87 % 
+Codex CLI                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 Projects: 
-kora                     7 hrs 59 mins       ██████████████████░░░░░░░   70.66 % 
-AzeFarms-admin           1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-kawaii-v2                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-glance                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+kora                     7 hrs 15 mins       █████████████████░░░░░░░░   68.55 % 
+AzeFarms-admin           1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+kawaii-v2                1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
+Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 
 💻 Operating System: 
-Mac                      11 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 43 mins (86.01%)
+⏱ AI Coding Time: 9 hrs 7 mins (86.23%)
 
-✍️ 3,927 lines written by AI, 71 lines written by hand (98.22% AI-written)
+✍️ 3,227 lines written by AI, 45 lines written by hand (98.62% AI-written)
 
-🔤 2,711,641 Input Tokens, 540,681 Output Tokens
+🔤 2,294,128 Input Tokens, 496,320 Output Tokens
 
-💵 $270.10 Estimated AI Cost This Week
+💵 $290.12 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 71 AI Prompts
+🧠 15 AI Sessions, 79 AI Prompts
 
-Opus                     2,514 lines         ████████████████░░░░░░░░░   62.60 % 
-Deepseek                 1,493 lines         █████████░░░░░░░░░░░░░░░░   37.18 % 
-GPT                      9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,740 lines         █████████████░░░░░░░░░░░░   53.67 % 
+Deepseek                 1,493 lines         ████████████░░░░░░░░░░░░░   46.05 % 
+GPT                      9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.22% of written lines came from AI
-📚 Verbose Prompter — average 2,332 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.33% of changed lines were hand-edited
+🤖 AI-Driven — 98.62% of written lines came from AI
+📚 Verbose Prompter — average 2,371 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 2.11% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,5 +116,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 24/08/2026 19:25:41 UTC
+ Last Updated on 25/08/2026 19:26:30 UTC
 <!--END_SECTION:waka-->
