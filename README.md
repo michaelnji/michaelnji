@@ -15,21 +15,21 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 317.4 kB Used in GitHub's Storage 
+> 📦 317.5 kB Used in GitHub's Storage 
  > 
-> 🏆 1,051 Contributions in the Year 2026
+> 🏆 1,056 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 46 Public Repositories 
+> 📜 47 Public Repositories 
  > 
 > 🔑 17 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                22093 commits       ████████░░░░░░░░░░░░░░░░░   31.67 % 
-🌆 Daytime                43550 commits       ████████████████░░░░░░░░░   62.43 % 
+🌞 Morning                22094 commits       ████████░░░░░░░░░░░░░░░░░   31.67 % 
+🌆 Daytime                43553 commits       ████████████████░░░░░░░░░   62.43 % 
 🌃 Evening                3353 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
 🌙 Night                  760 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 ```
@@ -38,9 +38,9 @@
 ```text
 Monday                   14835 commits       █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
 Tuesday                  14133 commits       █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
-Wednesday                12955 commits       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Thursday                 11969 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
-Friday                   9219 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Wednesday                12956 commits       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+Thursday                 11970 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Friday                   9221 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
 Saturday                 3725 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
 Sunday                   2920 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
 ```
@@ -52,54 +52,54 @@ Sunday                   2920 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Markdown                 3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-TypeScript               3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
-Vue                      2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Python                   2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Markdown                 3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
+TypeScript               3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+Vue                      2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Python                   2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+JSON                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 18 mins       ████████████░░░░░░░░░░░░░   46.16 % 
-VS Code                  7 hrs 36 mins       ███████████░░░░░░░░░░░░░░   42.30 % 
-Codex CLI                1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
-Antigravity Desktop      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+Claude Code              8 hrs 6 mins        ████████████░░░░░░░░░░░░░   46.82 % 
+VS Code                  7 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   41.18 % 
+Codex CLI                1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Antigravity Desktop      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 🐱‍💻 Projects: 
-kora                     12 hrs 7 mins       █████████████████░░░░░░░░   67.40 % 
-nowtech-admin            4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-kawaii-v2                1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
-Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Puffer                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+kora                     11 hrs 27 mins      █████████████████░░░░░░░░   66.12 % 
+nowtech-admin            4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+kawaii-v2                1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Puffer                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 💻 Operating System: 
-Mac                      18 hrs              █████████████████████████   99.99 % 
+Mac                      17 hrs 19 mins      █████████████████████████   99.99 % 
 Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 4 mins (89.28%)
+⏱ AI Coding Time: 15 hrs 24 mins (88.98%)
 
-✍️ 5,869 lines written by AI, 262 lines written by hand (95.73% AI-written)
+✍️ 5,744 lines written by AI, 262 lines written by hand (95.64% AI-written)
 
-🔤 4,983,000 Input Tokens, 1,156,488 Output Tokens
+🔤 4,724,410 Input Tokens, 1,065,104 Output Tokens
 
-💵 $740.21 Estimated AI Cost This Week
+💵 $711.45 Estimated AI Cost This Week
 
-🧠 36 AI Sessions, 194 AI Prompts
+🧠 34 AI Sessions, 187 AI Prompts
 
-Deepseek                 3,237 lines         █████████████░░░░░░░░░░░░   51.04 % 
-GPT                      1,849 lines         ███████░░░░░░░░░░░░░░░░░░   29.15 % 
-Opus                     1,256 lines         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Deepseek                 3,111 lines         █████████████░░░░░░░░░░░░   50.05 % 
+GPT                      1,849 lines         ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+Opus                     1,256 lines         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.73% of written lines came from AI
-📚 Verbose Prompter — average 4,495 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 5.4% of changed lines were hand-edited
+🤖 AI-Driven — 95.64% of written lines came from AI
+📚 Verbose Prompter — average 4,639 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 5.5% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,5 +119,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 29/08/2026 21:14:25 UTC
+ Last Updated on 30/08/2026 21:32:23 UTC
 <!--END_SECTION:waka-->
