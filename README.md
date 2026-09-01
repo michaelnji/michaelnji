@@ -7,9 +7,9 @@
 🙂 I'm a 24 year old self taught web developer, who's in love with building aesthetically pleasing web projects <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C665%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C670%20hrs%2038%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-769%20hrs%2025%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-774%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -52,54 +52,54 @@ Sunday                   2947 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Markdown                 3 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.60 % 
-Vue                      1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-TypeScript               1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Other                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-Python                   1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Markdown                 7 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+TypeScript               6 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Vue                      2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Python                   2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Other                    2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 35 mins       ██████████░░░░░░░░░░░░░░░   41.80 % 
-VS Code                  5 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   40.37 % 
-Codex CLI                1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Antigravity Desktop      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-Droid                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+VS Code                  15 hrs 34 mins      ███████████████░░░░░░░░░░   59.17 % 
+Claude Code              5 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Codex CLI                2 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Droid                    1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Antigravity Desktop      34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🐱‍💻 Projects: 
-kora                     8 hrs 17 mins       ████████████████░░░░░░░░░   62.04 % 
-nowtech-admin            4 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.72 % 
-sources                  14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
-Puffer                   11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-michaelnji               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+kora                     17 hrs 8 mins       ████████████████░░░░░░░░░   65.08 % 
+nowtech-admin            4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+sources                  3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+NowTech-backend-         29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+michaelnji               23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 
 💻 Operating System: 
-Mac                      13 hrs 22 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 hrs 27 mins (93.14%)
+⏱ AI Coding Time: 25 hrs 16 mins (96.0%)
 
-✍️ 4,141 lines written by AI, 548 lines written by hand (88.31% AI-written)
+✍️ 6,474 lines written by AI, 547 lines written by hand (92.21% AI-written)
 
-🔤 4,086,037 Input Tokens, 841,941 Output Tokens
+🔤 4,930,853 Input Tokens, 963,821 Output Tokens
 
-💵 $500.71 Estimated AI Cost This Week
+💵 $488.13 Estimated AI Cost This Week
 
-🧠 35 AI Sessions, 214 AI Prompts
+🧠 115 AI Sessions, 1605 AI Prompts
 
-GPT                      2,165 lines         ████████████░░░░░░░░░░░░░   47.09 % 
-Deepseek                 1,618 lines         █████████░░░░░░░░░░░░░░░░   35.19 % 
-Opus                     815 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+GPT                      2,899 lines         ██████████░░░░░░░░░░░░░░░   41.71 % 
+Droid                    1,919 lines         ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+Deepseek                 1,618 lines         ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+Opus                     514 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.31% of written lines came from AI
-📚 Verbose Prompter — average 6,381 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 14.39% of changed lines were hand-edited
+🤖 AI-Driven — 92.21% of written lines came from AI
+📚 Verbose Prompter — average 16,540 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 10.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,5 +119,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2026 23:16:40 UTC
+ Last Updated on 01/09/2026 21:30:09 UTC
 <!--END_SECTION:waka-->
