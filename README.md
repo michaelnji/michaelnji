@@ -15,7 +15,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 317.5 kB Used in GitHub's Storage 
+> 📦 317.6 kB Used in GitHub's Storage 
  > 
 > 🏆 1,059 Contributions in the Year 2026
  > 
@@ -52,54 +52,54 @@ Sunday                   2974 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-TypeScript               19 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-Vue                      17 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   27.01 % 
-Markdown                 15 hrs 37 mins      ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-Python                   2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-JSON                     2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Vue                      21 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   31.58 % 
+TypeScript               19 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   28.77 % 
+Markdown                 15 hrs 53 mins      ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+Bash                     2 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+JSON                     2 hrs 28 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   36.06 % 
-Claude Code              18 hrs 8 mins       ███████░░░░░░░░░░░░░░░░░░   28.13 % 
-Codex Vscode             14 hrs 44 mins      ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-Antigravity Desktop      2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Codex CLI                1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Claude Code              22 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   33.56 % 
+VS Code                  18 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Codex Vscode             14 hrs 44 mins      ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Codex CLI                6 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+Antigravity Desktop      2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
 
 🐱‍💻 Projects: 
-nowtech-admin            44 hrs 13 mins      █████████████████░░░░░░░░   68.59 % 
-kora                     12 hrs 31 mins      █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-NowTech-backend-         5 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-sources                  1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-miyaschool-website       35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+nowtech-admin            54 hrs 22 mins      ████████████████████░░░░░   81.44 % 
+NowTech-backend-         5 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+kora                     5 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+NVC-WEBSITE              50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+miyaschool-website       35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 💻 Operating System: 
-Mac                      64 hrs 28 mins      █████████████████████████   100.00 % 
+Mac                      66 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 60 hrs 52 mins (94.42%)
+⏱ AI Coding Time: 62 hrs 34 mins (93.73%)
 
-✍️ 35,358 lines written by AI, 535 lines written by hand (98.51% AI-written)
+✍️ 42,422 lines written by AI, 551 lines written by hand (98.72% AI-written)
 
-🔤 26,910,019 Input Tokens, 4,489,037 Output Tokens
+🔤 33,971,063 Input Tokens, 5,422,336 Output Tokens
 
-💵 $558.42 Estimated AI Cost This Week
+💵 $756.90 Estimated AI Cost This Week
 
-🧠 192 AI Sessions, 1908 AI Prompts
+🧠 128 AI Sessions, 934 AI Prompts
 
-GPT                      18,788 lines        █████████████░░░░░░░░░░░░   50.60 % 
-Sonnet                   8,772 lines         ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-Opus                     6,332 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Deepseek                 1,889 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Droid                    1,303 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+GPT                      25,210 lines        ██████████████░░░░░░░░░░░   56.21 % 
+Sonnet                   11,152 lines        ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
+Opus                     6,332 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
+Deepseek                 2,065 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+Droid                    49 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.51% of written lines came from AI
-📚 Verbose Prompter — average 16,209 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 4.12% of changed lines were hand-edited
+🤖 AI-Driven — 98.72% of written lines came from AI
+📚 Verbose Prompter — average 11,410 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 3.72% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,5 +119,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:48:34 UTC
+ Last Updated on 06/09/2026 20:50:21 UTC
 <!--END_SECTION:waka-->
