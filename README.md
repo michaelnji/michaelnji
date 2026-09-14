@@ -15,7 +15,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 317.6 kB Used in GitHub's Storage 
+> 📦 317.7 kB Used in GitHub's Storage 
  > 
 > 🏆 1,060 Contributions in the Year 2026
  > 
@@ -28,21 +28,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                23034 commits       ████████░░░░░░░░░░░░░░░░░   31.52 % 
-🌆 Daytime                45799 commits       ████████████████░░░░░░░░░   62.68 % 
-🌃 Evening                3447 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-🌙 Night                  786 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+🌞 Morning                15453 commits       ████████░░░░░░░░░░░░░░░░░   33.00 % 
+🌆 Daytime                28021 commits       ███████████████░░░░░░░░░░   59.84 % 
+🌃 Evening                2780 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+🌙 Night                  576 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   15519 commits       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-Tuesday                  14839 commits       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Wednesday                13568 commits       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Thursday                 12567 commits       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-Friday                   9655 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Saturday                 3876 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Sunday                   3042 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+Monday                   9604 commits        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Tuesday                  9440 commits        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Wednesday                8789 commits        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Thursday                 7740 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Friday                   6563 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Saturday                 2635 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Sunday                   2059 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 ```
 
 
@@ -52,53 +52,53 @@ Sunday                   3042 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-TypeScript               10 hrs 37 mins      ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-Markdown                 7 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.13 % 
-Vue                      7 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-tmux                     5 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Lua                      4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+TypeScript               10 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+Markdown                 7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Vue                      7 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+tmux                     4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Lua                      3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 46 mins      ███████████░░░░░░░░░░░░░░   45.88 % 
-VS Code                  13 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   29.53 % 
-Codex CLI                10 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
-Droid                    52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Claude Code              18 hrs 28 mins      ████████████░░░░░░░░░░░░░   48.10 % 
+VS Code                  9 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+Codex CLI                9 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
+Droid                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🐱‍💻 Projects: 
-nowtech-admin            23 hrs 56 mins      █████████████░░░░░░░░░░░░   52.87 % 
-dotfiles                 15 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   33.93 % 
-NowTech-backend-         2 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-nvim                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-kora                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+nowtech-admin            23 hrs 33 mins      ███████████████░░░░░░░░░░   61.34 % 
+dotfiles                 9 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+NowTech-backend-         2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+nvim                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+kora                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
 
 💻 Operating System: 
-Mac                      45 hrs 16 mins      █████████████████████████   100.00 % 
+Mac                      38 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 39 hrs 47 mins (87.89%)
+⏱ AI Coding Time: 35 hrs 2 mins (91.2%)
 
-✍️ 25,432 lines written by AI, 963 lines written by hand (96.35% AI-written)
+✍️ 24,002 lines written by AI, 788 lines written by hand (96.82% AI-written)
 
-🔤 23,127,991 Input Tokens, 2,874,027 Output Tokens
+🔤 22,078,088 Input Tokens, 2,604,213 Output Tokens
 
-💵 $269.38 Estimated AI Cost This Week
+💵 $235.64 Estimated AI Cost This Week
 
-🧠 79 AI Sessions, 710 AI Prompts
+🧠 71 AI Sessions, 640 AI Prompts
 
-GPT                      16,095 lines        ███████████████░░░░░░░░░░   59.19 % 
-Sonnet                   10,662 lines        ██████████░░░░░░░░░░░░░░░   39.21 % 
-Droid                    304 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-Codex-Cli                133 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+GPT                      14,717 lines        ██████████████░░░░░░░░░░░   57.40 % 
+Sonnet                   10,486 lines        ██████████░░░░░░░░░░░░░░░   40.90 % 
+Droid                    304 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Codex-Cli                133 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.35% of written lines came from AI
-📚 Verbose Prompter — average 17,723 characters per prompt
+🤖 AI-Driven — 96.82% of written lines came from AI
+📚 Verbose Prompter — average 18,633 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 7.36% of changed lines were hand-edited
+🚀 High AI Trust — 6.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,5 +118,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 21:17:12 UTC
+ Last Updated on 14/09/2026 22:09:06 UTC
 <!--END_SECTION:waka-->
