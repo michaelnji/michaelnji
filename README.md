@@ -28,19 +28,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15453 commits       ████████░░░░░░░░░░░░░░░░░   33.00 % 
-🌆 Daytime                28021 commits       ███████████████░░░░░░░░░░   59.84 % 
+🌞 Morning                15455 commits       ████████░░░░░░░░░░░░░░░░░   33.00 % 
+🌆 Daytime                28025 commits       ███████████████░░░░░░░░░░   59.84 % 
 🌃 Evening                2780 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 🌙 Night                  576 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   9604 commits        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Monday                   9606 commits        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
 Tuesday                  9440 commits        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Wednesday                8789 commits        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Thursday                 7740 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Friday                   6563 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
+Wednesday                8790 commits        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
+Thursday                 7741 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Friday                   6565 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
 Saturday                 2635 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 Sunday                   2059 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
 ```
@@ -52,53 +52,53 @@ Sunday                   2059 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-TypeScript               10 hrs 35 mins      ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-Markdown                 7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Vue                      7 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-tmux                     4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Lua                      3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+TypeScript               8 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+Markdown                 5 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Vue                      5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+tmux                     4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+Lua                      3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
 
 🔥 Editors: 
-Claude Code              18 hrs 28 mins      ████████████░░░░░░░░░░░░░   48.10 % 
-VS Code                  9 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-Codex CLI                9 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.75 % 
-Droid                    52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+Claude Code              17 hrs 13 mins      █████████████░░░░░░░░░░░░   53.19 % 
+VS Code                  8 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
+Codex CLI                6 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Droid                    53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
 
 🐱‍💻 Projects: 
-nowtech-admin            23 hrs 33 mins      ███████████████░░░░░░░░░░   61.34 % 
-dotfiles                 9 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-NowTech-backend-         2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-nvim                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-kora                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+nowtech-admin            19 hrs 4 mins       ███████████████░░░░░░░░░░   58.93 % 
+dotfiles                 9 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   30.50 % 
+NowTech-backend-         1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+nvim                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+base46                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Mac                      38 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      32 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 2 mins (91.2%)
+⏱ AI Coding Time: 29 hrs 13 mins (90.29%)
 
-✍️ 24,002 lines written by AI, 788 lines written by hand (96.82% AI-written)
+✍️ 20,396 lines written by AI, 734 lines written by hand (96.53% AI-written)
 
-🔤 22,078,088 Input Tokens, 2,604,213 Output Tokens
+🔤 15,762,242 Input Tokens, 2,056,483 Output Tokens
 
-💵 $235.64 Estimated AI Cost This Week
+💵 $180.32 Estimated AI Cost This Week
 
-🧠 71 AI Sessions, 640 AI Prompts
+🧠 59 AI Sessions, 537 AI Prompts
 
-GPT                      14,717 lines        ██████████████░░░░░░░░░░░   57.40 % 
-Sonnet                   10,486 lines        ██████████░░░░░░░░░░░░░░░   40.90 % 
-Droid                    304 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Codex-Cli                133 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      11,190 lines        █████████████░░░░░░░░░░░░   51.98 % 
+Sonnet                   10,037 lines        ████████████░░░░░░░░░░░░░   46.62 % 
+Droid                    299 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Codex-Cli                3 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.82% of written lines came from AI
-📚 Verbose Prompter — average 18,633 characters per prompt
+🤖 AI-Driven — 96.53% of written lines came from AI
+📚 Verbose Prompter — average 13,290 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 6.43% of changed lines were hand-edited
+🚀 High AI Trust — 6.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,5 +118,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 22:09:06 UTC
+ Last Updated on 15/09/2026 21:49:41 UTC
 <!--END_SECTION:waka-->
