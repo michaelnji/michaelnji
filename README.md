@@ -28,21 +28,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15455 commits       ████████░░░░░░░░░░░░░░░░░   33.00 % 
-🌆 Daytime                28025 commits       ███████████████░░░░░░░░░░   59.84 % 
-🌃 Evening                2780 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
-🌙 Night                  576 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+🌞 Morning                18281 commits       ████████░░░░░░░░░░░░░░░░░   33.72 % 
+🌆 Daytime                32291 commits       ███████████████░░░░░░░░░░   59.56 % 
+🌃 Evening                3032 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+🌙 Night                  612 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   9606 commits        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-Tuesday                  9440 commits        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-Wednesday                8790 commits        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
-Thursday                 7741 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Friday                   6565 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Saturday                 2635 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Sunday                   2059 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Monday                   11046 commits       █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Tuesday                  10988 commits       █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+Wednesday                10230 commits       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Thursday                 8767 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Friday                   7897 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Saturday                 2977 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Sunday                   2311 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
 ```
 
 
@@ -52,53 +52,50 @@ Sunday                   2059 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-TypeScript               5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-tmux                     4 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.27 % 
-Lua                      3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Vue                      3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Markdown                 1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Lua                      3 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   39.94 % 
+TypeScript               1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Vue                      1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Markdown                 48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Other                    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🔥 Editors: 
-Claude Code              14 hrs 7 mins       ████████████████░░░░░░░░░   62.78 % 
-VS Code                  5 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-Codex CLI                2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Droid                    33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Claude Code              4 hrs 42 mins       ██████████████░░░░░░░░░░░   55.31 % 
+VS Code                  2 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   32.66 % 
+Droid                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+Codex CLI                28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 🐱‍💻 Projects: 
-nowtech-admin            10 hrs 7 mins       ███████████░░░░░░░░░░░░░░   45.01 % 
-dotfiles                 9 hrs 44 mins       ███████████░░░░░░░░░░░░░░   43.33 % 
-nvim                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
-NowTech-backend-         50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-base46                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+nowtech-admin            3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.88 % 
+dotfiles                 2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   33.36 % 
+nvim                     1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+NowTech-backend-         39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+base46                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 💻 Operating System: 
-Mac                      22 hrs 29 mins      █████████████████████████   100.00 % 
+Mac                      8 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 23 mins (86.18%)
+⏱ AI Coding Time: 6 hrs 19 mins (74.25%)
 
-✍️ 11,606 lines written by AI, 733 lines written by hand (94.06% AI-written)
+✍️ 1,960 lines written by AI, 636 lines written by hand (75.5% AI-written)
 
-🔤 7,574,830 Input Tokens, 1,234,497 Output Tokens
+🔤 3,330,746 Input Tokens, 380,071 Output Tokens
 
-💵 $117.79 Estimated AI Cost This Week
+💵 $40.71 Estimated AI Cost This Week
 
-🧠 27 AI Sessions, 231 AI Prompts
+🧠 12 AI Sessions, 104 AI Prompts
 
-Sonnet                   6,676 lines         ██████████████░░░░░░░░░░░   54.60 % 
-GPT                      5,551 lines         ███████████░░░░░░░░░░░░░░   45.40 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   1,354 lines         ███████████████░░░░░░░░░░   61.91 % 
+GPT                      833 lines           ██████████░░░░░░░░░░░░░░░   38.09 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.06% of written lines came from AI
-📚 Verbose Prompter — average 5,416 characters per prompt
+🤖 AI-Driven — 75.5% of written lines came from AI
+📚 Verbose Prompter — average 7,689 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 10.48% of changed lines were hand-edited
+🚀 High AI Trust — 37.28% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,5 +115,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2026 21:43:52 UTC
+ Last Updated on 17/09/2026 21:49:45 UTC
 <!--END_SECTION:waka-->
