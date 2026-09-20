@@ -52,47 +52,22 @@ Sunday                   2367 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-Lua                      1 hr 28 mins        ██████████████████░░░░░░░   71.43 % 
-Text                     13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Other                    12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-TypeScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              1 hr 19 mins        ████████████████░░░░░░░░░   63.76 % 
-VS Code                  45 mins             █████████░░░░░░░░░░░░░░░░   36.24 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-nvim                     1 hr 3 mins         █████████████░░░░░░░░░░░░   51.30 % 
-dotfiles                 39 mins             ████████░░░░░░░░░░░░░░░░░   31.42 % 
-base46                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-NvChad                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-kora                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      2 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 33 mins (75.1%)
-
-✍️ 416 lines written by AI, 380 lines written by hand (52.26% AI-written)
-
-🔤 295,855 Input Tokens, 116,661 Output Tokens
-
-💵 $8.13 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 18 AI Prompts
-
-Sonnet                   420 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.26% of written lines came from AI
-📝 Concise Prompter — average 90 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🔍 Hands-On Reviewer — 66.43% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -112,5 +87,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 21:05:14 UTC
+ Last Updated on 20/09/2026 21:10:43 UTC
 <!--END_SECTION:waka-->
