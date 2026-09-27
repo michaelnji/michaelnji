@@ -7,15 +7,15 @@
 🙂 I'm a 24 year old self taught web developer, who's in love with building aesthetically pleasing web projects <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C786%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C794%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-882%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-889%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 317.8 kB Used in GitHub's Storage 
+> 📦 317.9 kB Used in GitHub's Storage 
  > 
 > 🏆 1,060 Contributions in the Year 2026
  > 
@@ -28,16 +28,16 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13701 commits       █████████░░░░░░░░░░░░░░░░   34.90 % 
-🌆 Daytime                22299 commits       ██████████████░░░░░░░░░░░   56.80 % 
+🌞 Morning                13702 commits       █████████░░░░░░░░░░░░░░░░   34.90 % 
+🌆 Daytime                22300 commits       ██████████████░░░░░░░░░░░   56.80 % 
 🌃 Evening                2747 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 🌙 Night                  513 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   7379 commits        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Tuesday                  8082 commits        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Monday                   7381 commits        █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Tuesday                  8082 commits        █████░░░░░░░░░░░░░░░░░░░░   20.58 % 
 Wednesday                7355 commits        █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
 Thursday                 5938 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
 Friday                   6483 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
@@ -52,51 +52,50 @@ Sunday                   1775 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-TypeScript               10 hrs 55 mins      ██████████░░░░░░░░░░░░░░░   40.95 % 
-Markdown                 4 hrs 55 mins       █████░░░░░░░░░░░░░░░░░░░░   18.46 % 
-Other                    2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-Bash                     2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Text                     2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+TypeScript               10 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   34.95 % 
+Markdown                 4 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
+Vue                      3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Bash                     2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Other                    2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 6 mins       ██████████████░░░░░░░░░░░   56.66 % 
-Opencode Cli             9 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   36.51 % 
-VS Code                  1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Droid                    18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+Claude Code              16 hrs 53 mins      ██████████████░░░░░░░░░░░   57.99 % 
+Opencode Cli             9 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.56 % 
+VS Code                  2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 
 🐱‍💻 Projects: 
-djulah-website           12 hrs 8 mins       ███████████░░░░░░░░░░░░░░   45.55 % 
-dotfiles                 9 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.47 % 
-nowtech-admin            2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
-trunk                    2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-michaelnji               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+djulah-website           11 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   40.59 % 
+dotfiles                 8 hrs 35 mins       ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+nowtech-admin            8 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.37 % 
+michaelnji               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Mac                      26 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      29 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 20 mins (98.82%)
+⏱ AI Coding Time: 28 hrs 25 mins (97.62%)
 
-✍️ 8,833 lines written by AI, 2 lines written by hand (99.98% AI-written)
+✍️ 12,400 lines written by AI, 40 lines written by hand (99.68% AI-written)
 
-🔤 7,624,348 Input Tokens, 1,765,522 Output Tokens
+🔤 8,399,107 Input Tokens, 2,099,435 Output Tokens
 
-💵 $170.58 Estimated AI Cost This Week
+💵 $212.90 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 189 AI Prompts
+🧠 27 AI Sessions, 225 AI Prompts
 
-Sonnet                   6,139 lines         ████████████████░░░░░░░░░   65.52 % 
-GPT                      3,230 lines         █████████░░░░░░░░░░░░░░░░   34.48 % 
+Sonnet                   6,441 lines         ████████████░░░░░░░░░░░░░   49.19 % 
+Opus                     3,422 lines         ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+GPT                      3,231 lines         ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 522 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🤖 AI-Driven — 99.68% of written lines came from AI
+📝 Concise Prompter — average 272 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.8% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,5 +115,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 26/09/2026 21:31:32 UTC
+ Last Updated on 27/09/2026 21:42:00 UTC
 <!--END_SECTION:waka-->
