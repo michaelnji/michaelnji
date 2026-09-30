@@ -52,50 +52,52 @@ Sunday                   1775 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-TypeScript               10 hrs 10 mins      ████████████░░░░░░░░░░░░░   49.42 % 
-Vue                      3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Markdown                 2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-Bash                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+TypeScript               10 hrs 32 mins      ███████████░░░░░░░░░░░░░░   42.72 % 
+Vue                      3 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Bash                     2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Markdown                 2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+JSON                     1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
 
 🔥 Editors: 
-Claude Code              10 hrs 36 mins      █████████████░░░░░░░░░░░░   51.48 % 
-Opencode Cli             7 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   36.58 % 
-VS Code                  2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Claude Code              13 hrs 22 mins      ██████████████░░░░░░░░░░░   54.23 % 
+Opencode Cli             7 hrs               ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+VS Code                  4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
 
 🐱‍💻 Projects: 
-djulah-website           11 hrs 49 mins      ██████████████░░░░░░░░░░░   57.39 % 
-nowtech-admin            6 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   30.71 % 
-dotfiles                 2 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-michaelnji               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+djulah-website           9 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   38.39 % 
+nowtech-admin            8 hrs 14 mins       ████████░░░░░░░░░░░░░░░░░   33.39 % 
+dotfiles                 4 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+NowTech-backend-         2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+nvim                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Mac                      20 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 hrs 54 mins (96.63%)
+⏱ AI Coding Time: 22 hrs 42 mins (92.07%)
 
-✍️ 11,310 lines written by AI, 40 lines written by hand (99.65% AI-written)
+✍️ 13,123 lines written by AI, 74 lines written by hand (99.44% AI-written)
 
-🔤 7,669,218 Input Tokens, 1,657,455 Output Tokens
+🔤 8,731,555 Input Tokens, 1,915,765 Output Tokens
 
-💵 $186.16 Estimated AI Cost This Week
+💵 $205.30 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 176 AI Prompts
+🧠 37 AI Sessions, 224 AI Prompts
 
-Sonnet                   5,326 lines         ███████████░░░░░░░░░░░░░░   44.46 % 
-Opus                     3,422 lines         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-GPT                      3,231 lines         ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+Sonnet                   6,700 lines         ████████████░░░░░░░░░░░░░   47.67 % 
+GPT                      3,932 lines         ███████░░░░░░░░░░░░░░░░░░   27.98 % 
+Opus                     3,422 lines         ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.65% of written lines came from AI
-📝 Concise Prompter — average 312 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.87% of changed lines were hand-edited
+🤖 AI-Driven — 99.44% of written lines came from AI
+📄 Detailed Prompter — average 643 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 2.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -115,5 +117,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2026 22:38:06 UTC
+ Last Updated on 30/09/2026 22:40:13 UTC
 <!--END_SECTION:waka-->
