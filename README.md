@@ -7,15 +7,15 @@
 🙂 I'm a 24 year old self taught web developer, who's in love with building aesthetically pleasing web projects <br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C842%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C846%20hrs%2043%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-936%20hrs%2010%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-940%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 318.0 kB Used in GitHub's Storage 
+> 📦 318.1 kB Used in GitHub's Storage 
  > 
 > 🏆 1,060 Contributions in the Year 2026
  > 
@@ -52,54 +52,54 @@ Sunday                   1816 commits        █░░░░░░░░░░�
 🕑︎ Time Zone: Africa/Douala
 
 💬 Programming Languages: 
-TypeScript               15 hrs 57 mins      ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-Vue                      11 hrs 28 mins      █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
-Markdown                 10 hrs 44 mins      █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
-Bash                     4 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Other                    4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+TypeScript               17 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   30.30 % 
+Markdown                 11 hrs 43 mins      █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Vue                      11 hrs 31 mins      █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Bash                     5 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+Other                    4 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 49 mins      █████████████░░░░░░░░░░░░   51.68 % 
-Opencode Cli             12 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
-VS Code                  11 hrs 33 mins      █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-Droid                    1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-Antigravity CLI          51 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Claude Code              29 hrs 46 mins      █████████████░░░░░░░░░░░░   51.70 % 
+Opencode Cli             12 hrs 14 mins      █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+VS Code                  12 hrs 7 mins       █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+Codex Vscode             1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+Droid                    56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🐱‍💻 Projects: 
-nowtech-admin            33 hrs 19 mins      ███████████████░░░░░░░░░░   61.93 % 
-dotfiles                 10 hrs 35 mins      █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-NowTech-backend-         5 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Now-tech--website        1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-nuxt-workspace           1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+nowtech-admin            34 hrs 5 mins       ███████████████░░░░░░░░░░   59.22 % 
+dotfiles                 13 hrs 31 mins      ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+NowTech-backend-         5 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+Now-tech--website        1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
+nuxt-workspace           1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 💻 Operating System: 
-Mac                      53 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      57 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 hrs 58 mins (91.01%)
+⏱ AI Coding Time: 52 hrs 31 mins (91.23%)
 
-✍️ 24,748 lines written by AI, 361 lines written by hand (98.56% AI-written)
+✍️ 28,259 lines written by AI, 366 lines written by hand (98.72% AI-written)
 
-🔤 25,321,500 Input Tokens, 3,356,953 Output Tokens
+🔤 28,910,674 Input Tokens, 3,891,303 Output Tokens
 
-💵 $567.65 Estimated AI Cost This Week
+💵 $601.63 Estimated AI Cost This Week
 
-🧠 92 AI Sessions, 1004 AI Prompts
+🧠 105 AI Sessions, 1150 AI Prompts
 
-Sonnet                   18,334 lines        █████████████████░░░░░░░░   69.92 % 
-Opus                     3,431 lines         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-GPT                      2,828 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Droid                    815 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
-Gemini                   505 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+Sonnet                   20,256 lines        █████████████████░░░░░░░░   67.85 % 
+GPT                      4,499 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Opus                     3,431 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Droid                    853 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Gemini                   505 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.56% of written lines came from AI
-📚 Verbose Prompter — average 3,889 characters per prompt
+🤖 AI-Driven — 98.72% of written lines came from AI
+📚 Verbose Prompter — average 3,895 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 2.59% of changed lines were hand-edited
+🚀 High AI Trust — 2.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,5 +119,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/michaelnji/michaelnji/main/assets/bar_graph.png)
 
 
- Last Updated on 06/10/2026 00:26:04 UTC
+ Last Updated on 06/10/2026 22:54:33 UTC
 <!--END_SECTION:waka-->
